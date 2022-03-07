@@ -1,1 +1,1 @@
-# Kartezio
+<img src="https://raw.githubusercontent.com/MicroMedIAn/Kartezio/main/assets/banner.png?raw=True" width="1280" title="Kartezio" alt="Kartezio">![banner](https://user-images.githubusercontent.com/12863301/157093594-9e7c910a-2b2a-4363-a9f5-c0ce38946bb9.png)
